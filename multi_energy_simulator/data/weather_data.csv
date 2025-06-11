@@ -1,0 +1,4 @@
+time,irradiance,temperature
+0,1.0,25
+3600,0.8,26
+7200,0.5,28
