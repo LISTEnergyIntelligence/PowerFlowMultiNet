@@ -1,0 +1,1 @@
+{"directed": false, "multigraph": false, "graph": {}, "nodes": [{"id": "n1"}, {"id": "n2"}], "links": [{"source": "n1", "target": "n2"}]}
